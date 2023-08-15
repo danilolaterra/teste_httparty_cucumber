@@ -6,13 +6,7 @@
 git clone https://github.com/danilolaterra/teste_httparty_cucumber
 ```
 
-2- entre na pasta do projeto
-
-```
-cd /testePraticoBackVRFinal
-```
-
-3- instale as dependências
+2- instale as dependências
 
 ```
 bundle install
